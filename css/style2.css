@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    height: auto;
+}
+.head{
+    width: 100%;
+    height: 50Px;
+    background-color: brown;
+    margin: auto;
+}
+.header{
+    width: 50%;
+    height: 70Px;
+    background-color: brown;
+    float: left;
+    
+}
+.menu{
+    width: 50%;
+    height: 70Px;
+    background-color: brown;
+    float: left;
+}
+.header h1{
+   padding-left: 50px;
+    color: whitesmoke;
+    
+}
+li{
+    display: block;
+    display: inline-block;
+}
+ .menu ul li a{
+    display: block;
+    text-decoration: none;
+    padding: 25px;
+    color: azure;
+}
+
